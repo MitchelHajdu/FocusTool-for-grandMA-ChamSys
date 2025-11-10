@@ -1,6 +1,6 @@
 # FocusTool
 
-A standalone application for lighting operators to quickly focus fixtures via OSC control. Optimized for handheld devices such as the Steam Deck, MSI Claw, or a laptop, FocusTool communicates directly with lighting consoles like grandMA3 and ChamSys.
+A standalone application for lighting programmers to quickly focus fixtures via OSC control. Optimized for handheld devices such as the Steam Deck, MSI Claw, or a laptop, FocusTool communicates directly with lighting consoles like grandMA3 and ChamSys.
 
 ## Overview
 
@@ -21,7 +21,7 @@ FocusTool converts joystick and button input into real-time OSC commands for fas
 **Operating Systems**
 - Windows
 - SteamOS
-- BlaziteOS
+- BazziteOS
 
 **Handheld Devices**
 - MSI Claw (recommended)
